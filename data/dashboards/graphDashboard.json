@@ -1,0 +1,10 @@
+{
+	"time": 1,
+	"widgets": [
+	
+		"numberWidget",
+                "buzzwordsWidget",
+                "graphWidget"
+		
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "time": 1,
+    "name": "Location of the Most Recent Searches",
+    "widgets": [
+        "vancouverLargeMapWidget",
+        "infoWidget",
+        "searchDailyWidget",
+        "searchWeeklyWidget",
+        "searchMonthlyWidget"
+    ]
+}

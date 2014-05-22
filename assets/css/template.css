@@ -1,0 +1,130 @@
+/**
+ * The css for the template of the widgets/webpage
+ * 
+ * @author: Jordan Marling
+ * 
+ */
+
+body {
+	background-color: #222222;
+	color: white;
+	font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin: 5px;
+	overflow: hidden;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin: 20px;
+}
+
+h1 span {
+	width: 100%;
+}
+
+#dashboard {
+	width: 1900px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+.widget {
+	margin: 5px;
+	padding: 0px;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.widget * {
+	margin: 0px;
+	padding: 5px;
+}
+
+.widget-graph {
+  background-color: #dc5945;
+  position: relative;
+}
+.widget-graph svg {
+  position: absolute;
+  opacity: 0.4;
+  fill-opacity: 0.4;
+  left: 0px;
+  top: 0px;
+}
+.widget-graph .title, .widget-graph .value {
+  position: relative;
+  z-index: 99;
+}
+.widget-graph .title {
+  color: rgba(255, 255, 255, 0.7);
+}
+.widget-graph .more-info {
+  color: rgba(255, 255, 255, 0.3);
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 0;
+}
+.widget-graph .x_tick {
+  position: absolute;
+  bottom: 0;
+}
+.widget-graph .x_tick .title {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.4);
+  opacity: 0.5;
+  padding-bottom: 3px;
+}
+.widget-graph .y_ticks {
+  font-size: 20px;
+  fill: rgba(0, 0, 0, 0.4);
+  fill-opacity: 1;
+}
+.widget-graph .domain {
+  display: none;
+}
+.widget-graph .legend {
+    font-size: 1.1em;
+    opacity: 0.5;
+    position: relative;
+    left: 650px;
+    top: 50px;
+    text-align: left;
+}
+
+.widget .campaign-title {
+	font-size: 40px;
+}
+
+.widget .campaign-body {
+	text-align: justify;
+	padding: 10px;
+}
+
+.widget .campaign-message {
+    vertical-align: center;
+}
+
+.arrow {
+    position: relative;
+    top: 7px;
+}
+
+.centerText{
+     margin-top: 5px;
+    font-size: 60px;
+}
+
+.percentage{
+    float:bottom;
+     
+}
+
+.footer {
+    float:bottom;
+}

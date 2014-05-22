@@ -1,0 +1,15 @@
+{
+    "time": 1,
+    "name": "This Week's Searches/Notifications/Reminders",
+    "widgets": [
+        "recollectCampaignWidget",
+        "twitterWidget",
+        "graphWidget",
+        "searchWeeklyWidget",
+        "notificationsWeeklyWidget",
+        "remindersWeeklyWidget",
+        "supportRequestsDailyWidget",
+        "supportRequestsWeeklyWidget",
+        "supportRequestsMonthlyWidget"
+    ]
+}

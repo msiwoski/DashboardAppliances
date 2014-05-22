@@ -1,0 +1,1 @@
+<g transform="translate(0,{yV})" style="opacity: 1;"><line class="tick" x2="4" y2="0"></line><text x="7" y="0" dy=".32em" text-anchor="start">{yP}</text></g>

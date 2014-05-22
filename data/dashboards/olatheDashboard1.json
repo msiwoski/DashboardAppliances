@@ -1,0 +1,14 @@
+{
+	"time": 1,
+        "name": "Olathe Waste Department",
+	"widgets": [
+		"searchWeeklyWidget",
+                "notificationsWeeklyWidget",
+                "remindersWeeklyWidget",
+                "supportRequestsDailyWidget",
+                "supportRequestsWeeklyWidget",
+                "supportRequestsMonthlyWidget",
+                "graphWidget",
+                "graphWidget"
+	]
+}

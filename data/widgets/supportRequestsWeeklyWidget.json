@@ -1,0 +1,8 @@
+{ 
+	"time": 30,
+        "additionalParams": {"city":"vancouver", "time":"1week", "title":"Weekly Support Requests", "comparePeriod":"past 7 days", "backgroundColor":"#FF9618", "footerColor":"#ce6a00"},
+	"model": "supportRequestModel", 
+	"type": "number", 
+	"width": 1, 
+	"height": 1
+}

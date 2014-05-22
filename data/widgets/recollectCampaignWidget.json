@@ -1,0 +1,8 @@
+{
+    "time": 30,
+    "additionalParams": "vancouver",
+    "model": "recollectCampaignModel",
+    "type": "text",
+    "width": 3,
+    "height": 1
+}

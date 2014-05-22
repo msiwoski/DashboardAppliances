@@ -1,0 +1,8 @@
+{ 
+	"time": 30,
+        "additionalParams": {"city":"vancouver", "category":"searches", "time": "1month","title":"Recent Monthly Searches", "comparePeriod":"prior month","footerColor":"#c94118","backgroundColor":"#EC663C"},
+	"model": "countModel", 
+	"type": "number", 
+	"width": 1, 
+	"height": 1
+}

@@ -1,0 +1,7 @@
+{ 
+	"time": 10,
+	"model": "twitterModel", 
+	"type": "twitter", 
+	"width": 3, 
+	"height": 1
+}

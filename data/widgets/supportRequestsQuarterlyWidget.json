@@ -1,0 +1,8 @@
+{ 
+	"time": 30,
+        "additionalParams": {"city":"vancouver", "time":"3months", "title":"Quarterly Support Requests", "comparePeriod":"past quarter", "backgroundColor":"#FF9618", "footerColor":"#ce6a00"},
+	"model": "supportRequestModel", 
+	"type": "number", 
+	"width": 1, 
+	"height": 1
+}

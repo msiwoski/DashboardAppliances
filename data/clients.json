@@ -1,0 +1,12 @@
+{
+	"clients": [
+	
+		{ "id": 1, "dashboards": [ "numberDashboard", "graphDashboard" ] },
+		{ "id": 2, "dashboards": [ "numberDashboard" ] },
+                { "id": 3, "dashboards": [ "olatheDashboard3", "olatheDashboard2", "olatheDashboard3"]},
+                { "id": 4, "dashboards": [ "vancouverDashboard1", "vancouverDashboard2"]},
+                {"id": 5, "dashboards": [ "testDashboard"]}
+
+		
+	]
+}

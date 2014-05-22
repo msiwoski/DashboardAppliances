@@ -1,0 +1,8 @@
+{ 
+	"time": 30,
+        "additionalParams": {"title":"Recent Weekly Searches", "text":"This map shows the last 50 searches in Vancouver represented by the heatmap layer. Each dot is a rough approximation as to where the last search was."},
+	"model": "infoModel", 
+	"type": "text", 
+	"width": 3, 
+	"height": 1
+}
